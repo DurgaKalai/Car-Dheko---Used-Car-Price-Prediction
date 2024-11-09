@@ -4,7 +4,7 @@
 # Project Scope:
 ### The project involves historical used car price data from CarDekho, including features like make, model, year, fuel type, transmission, and city. The goal is to build a machine learning model that predicts car prices based on these attributes and integrate it into a Streamlit web app, allowing users to input car details and receive instant price estimates.
 
-#Skills Gained from This Project:
+# Skills Gained from This Project:
 Data Cleaning and Preprocessing
 
 Handling missing data, outliers, and feature encoding.
