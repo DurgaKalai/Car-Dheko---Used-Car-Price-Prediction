@@ -31,6 +31,7 @@ Documenting the process and presenting results.
 # Screenshot of Streamlit app:
 ![screenshot 1](https://github.com/user-attachments/assets/a97fe034-fe16-4d68-8516-9e450ee78f12)
 
+
 ![screenshot 2](https://github.com/user-attachments/assets/57d0a373-b756-4503-8726-e83cac80c076)
 
 
